@@ -1,0 +1,9 @@
+D:\C#\Lab_3\Lab_3\bin\Debug\Lab_3.exe
+D:\C#\Lab_3\Lab_3\bin\Debug\Lab_3.pdb
+D:\C#\Lab_3\Lab_3\bin\Debug\Newtonsoft.Json.dll
+D:\C#\Lab_3\Lab_3\bin\Debug\Newtonsoft.Json.xml
+D:\C#\Lab_3\Lab_3\obj\Debug\Lab_3.csproj.AssemblyReference.cache
+D:\C#\Lab_3\Lab_3\obj\Debug\Lab_3.csproj.CoreCompileInputs.cache
+D:\C#\Lab_3\Lab_3\obj\Debug\Lab_3.csproj.CopyComplete
+D:\C#\Lab_3\Lab_3\obj\Debug\Lab_3.exe
+D:\C#\Lab_3\Lab_3\obj\Debug\Lab_3.pdb
